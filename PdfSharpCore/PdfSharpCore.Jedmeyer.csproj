@@ -6,12 +6,12 @@
     <Authors>Stefan Steiger and Contributors</Authors>
     <Description>PdfSharp for .NET Core
 
-PdfSharpCore is a partial port of PdfSharp.Xamarin for .NET Core Additionally MigraDoc has been ported as well (from version 1.32). Images have been implemented with ImageSharp from https://www.nuget.org/packages/SixLabors.ImageSharp</Description>
+PdfSharpCore.Jedmeyer is based off of PdfSharpCore by Stefan Steiger with Minor changes. I is a partial port of PdfSharp.Xamarin for .NET Core Additionally MigraDoc has been ported as well (from version 1.32). Images have been implemented with ImageSharp from https://www.nuget.org/packages/SixLabors.ImageSharp</Description>
     <Copyright>Copyright (c) 2005-2007 empira Software GmbH, Cologne (Germany)</Copyright>
     <PackageLicenseFile>LICENCE.md</PackageLicenseFile>
-    <PackageProjectUrl>https://github.com/ststeiger/PdfSharpCore</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/ststeiger/PdfSharpCore</RepositoryUrl>
-    <PackageReleaseNotes>PdfSharpCore is a partial port of PdfSharp.Xamarin for .NET Core Additionally MigraDoc has been ported as well (from version 1.32)</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/Jedmeyer/PdfSharpCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Jedmeyer/PdfSharpCore</RepositoryUrl>
+    <PackageReleaseNotes>Dropping support for netstandard1.3 and upgrading ImageSharp from SixLabors</PackageReleaseNotes>
     <PackageTags>NuggetV1.0.0 (8ea343d5898342a563b9d4df2d67e27aaea9ac01)</PackageTags>
     <summary>PdfSharp for .NET Core</summary>    
   </PropertyGroup>

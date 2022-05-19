@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PdfSharpCore\PdfSharpCore.csproj" />
+    <ProjectReference Include="..\PdfSharpCore\PdfSharpCore.Jedmeyer.csproj" />
   </ItemGroup>
 
   <ItemGroup>
